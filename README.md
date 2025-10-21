@@ -16,7 +16,7 @@
 
 
 ```javascript
-    const profile = {
+const profile = {
         name: "Elie Malo",
         role: "Full-Stack Developer",
         location: "Dakar, Senegal 🇸🇳",
