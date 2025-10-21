@@ -1,18 +1,12 @@
 <h1 align="center">Hi 👋, I'm Elie Malo</h1>
 
 <div align="center">
-    <h3>
         I’m a versatile full-stack developer with experience in both backend and frontend development, as well as desktop and web game development. 
         I have a strong background in Golang, Rust, JavaScript (React.js, Next.js), Python, Java, C, and C++. 
         I also specialize in UI/UX design and prototyping, creating interfaces that are intuitive, visually appealing, and user-centered.
-
         Additionally, I am developing my skills in pentesting and cybersecurity, using tools like Nmap, Burp Suite, Hydra, SQLMap, and Wireshark to analyze and secure applications.
-
         I love tackling challenging projects, learning new technologies, and collaborating with teams to deliver innovative solutions. 
         Feel free to explore my work, follow my projects, and get in touch if you’re interested in collaborating or exchanging ideas.
-
-        Looking forward to connecting with you!
-    </h3>
 </div>
 
 <div align="center">
