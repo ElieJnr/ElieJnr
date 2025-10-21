@@ -42,11 +42,11 @@
   <!-- Langages -->
   <img src="https://skillicons.dev/icons?i=golang,rust,c,java,python,html,css,javascript" alt="Langages" /><br>
   <!-- Langages -->
-  <img src="https://skillicons.dev/icons?i=typescript,php,react,express,dart,flutter,nodejs,kotlin" alt="Langages" /><br>
+  <img src="https://skillicons.dev/icons?i=typescript,php,react,flutter,nodejs" alt="Langages" /><br>
   <!-- IDE et outils -->
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,notion,git,github,firebase,figma,photoshop" alt="IDE et outils" /><br>
   <!-- IDE et outils -->
-  <img src="https://skillicons.dev/icons?i=docker,ansible,kubernetes,jenkins,aws,sqlite,mongodb,mysql" alt="IDE et outils" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,sqlite,mongodb,mysql" alt="IDE et outils" /><br>
 </div>
 
 
